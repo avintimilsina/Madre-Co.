@@ -570,7 +570,7 @@ footer {
 		padding: 0px;
 	}
 }
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 425px) {
 	#special {
 		display: none;
 	}
